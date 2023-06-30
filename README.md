@@ -4,18 +4,10 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/dylanwattgh/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/dylanwattgh/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/dylanwattgh/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/dylanwattgh/post-install-config) WORK IN PROG
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/dylanwattgh/ticket-lifecycle) WORK IN PROG
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/dylanwattgh/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dylanwattgh/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/dylanwattgh/configure-ad) WORK IN PROG
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dylanwattgh/azure-network-protocols) WORK IN PROG
 
-<h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
