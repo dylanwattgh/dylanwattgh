@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dylan, a <a href="https://www.linkedin.com/in/dylanwattli">Line Cook</a> , venturing into the IT field  ☺</h1>
+<h1>Hi, I'm Dylan, a <a href="https://www.linkedin.com/in/dylanwattli">Line Cook</a> , venturing into the IT field  🤖</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
